@@ -1,0 +1,22 @@
+---
+layout: default.hbs
+currentpage: 2
+---
+
+<ul>
+{{#each general.pages }}
+  <li>
+    <a href="{{ url }}" {{#is page ../currentpage}}class="current"{{/is}}>{{#is_exp page 0 ../currentpage 1}}<span class="label">Next &raquo;</span>&nbsp;{{/is_exp}}{{ title }}</a>
+  </li>
+{{/each}}
+</ul>
+
+<hr>
+
+<ul>
+{{#each general.pages }}
+  <li>
+    <a href="{{ url }}" {{#is page ../currentpage}}class="current"{{/is}}>{{#is_exp page 0 ../currentpage -1}}<span class="label">&laquo; Prev</span>&nbsp;{{/is_exp}}{{ title }}</a>
+  </li>
+{{/each}}
+</ul>

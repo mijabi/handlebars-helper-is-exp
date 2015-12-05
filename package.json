@@ -1,0 +1,26 @@
+{
+  "name": "handlebars-helper-is-exp",
+  "version": "0.0.0",
+  "description": "Extend each values of handlebars {{# is}} comparison.",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mijabi/handlebars-helper-is-exp.git"
+  },
+  "keywords": [
+    "assemble",
+    "each",
+    "repeat",
+    "grunt",
+    "handlebars"
+  ],
+  "author": "mijabi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mijabi/handlebars-helper-is-exp/issues"
+  },
+  "homepage": "https://github.com/mijabi/handlebars-helper-is-exp"
+}

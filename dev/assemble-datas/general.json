@@ -1,0 +1,24 @@
+{
+  "pages": {
+    "p1": {
+      "page": 1,
+      "url": "http://pulp.photo/",
+      "title": "top page"
+    },
+    "p2": {
+      "page": 2,
+      "url": "http://pulp.photo/writings/",
+      "title": "reading list"
+    },
+    "p3": {
+      "page": 3,
+      "url": "http://pulp.photo/photographs/",
+      "title": "photography list"
+    },
+    "p4": {
+      "page": 4,
+      "url": "http://pulp.photo/about/",
+      "title": "about site"
+    }
+  }
+}
