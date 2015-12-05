@@ -139,7 +139,8 @@ currentpage: 2
 </ul>
 ```
 
-You can get below
+You can get below  
+[github.io](https://mijabi.github.io/handlebars-helper-is-exp/dist/)
 
 ```html
 :index.html
