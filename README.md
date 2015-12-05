@@ -1,5 +1,3 @@
-# handlebars-helper-do-once-in-times
-
 Extend each values of handlebars {{# is}} comparison.  
 
 {{#is_ext a 1 b 5}} ... ((a + 1) === (b + 5))  
