@@ -1,6 +1,6 @@
 {
   "name": "handlebars-helper-is-exp",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Extend each values of handlebars {{# is}} comparison.",
   "main": "./index.js",
   "scripts": {
